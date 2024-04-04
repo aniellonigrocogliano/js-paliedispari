@@ -16,10 +16,16 @@ Dichiariamo chi ha vinto.
 Buon lavoro e buon divertimento! :faccia_leggermente_sorridente:
 
 ## Svolgimento Palindroma
-- [ ] Chiedo parola ad utente
-- [ ] creaiamo la funzione che verifica se palindroma 
-- [ ] nella funzione confontriamo le lettere che se invertite e uguali formano una parola palindroma
-- [ ] la funzione se tutte le lettere son uguali restituisce true altrimenti false
-- [ ] stampiamo risultato
+- [x] Chiedo parola ad utente
+- [x] creaiamo la funzione che verifica se palindroma 
+- [x] nella funzione confontriamo le lettere che se invertite e uguali formano una parola palindroma
+- [x] la funzione se tutte le lettere son uguali restituisce true altrimenti false
+- [x] stampiamo risultato
 ## Svolgimento Pari e dispari
+- [ ] Chiediamo pari o dispari all'utente
+- [ ] chiediamo un numero all'utente
+- [ ] creiamo una funzione che generi un numero random da 1 a 5
+- [ ] sommiamo i due numeri
+- [ ] creiamo una funzione che confronti i due numeri
+- [ ] stampiamo a video chi ha vinto
 
